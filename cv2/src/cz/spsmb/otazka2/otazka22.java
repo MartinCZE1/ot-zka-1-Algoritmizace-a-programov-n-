@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class otazka22 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
-        System.out.println("Dej vetu");
+        System.out.println("Dej vìtu");
         String veta = sc.nextLine();
         char chars[] = veta.toCharArray();
 
